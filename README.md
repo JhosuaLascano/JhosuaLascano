@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Roger 👋
+# Hola, soy Roger
 
 ### Estudiante de Ingeniería | Desarrollador de Apps Móviles
 
