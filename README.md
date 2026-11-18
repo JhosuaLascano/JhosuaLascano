@@ -27,6 +27,9 @@ Estudiante de Ingeniería, me gusta crear aplicaciones móviles útiles, rápida
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Datos & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -44,10 +47,10 @@ Estudiante de Ingeniería, me gusta crear aplicaciones móviles útiles, rápida
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| 🦉 [**El Dato**](https://github.com/JhosuaLascano/El-Dato) | App de gastos diarios, ahorro con meta y recordatorios. Disponible para Android e iPhone. | Flutter · SQLite |
-| 📰 [**Noticias EC**](https://github.com/JhosuaLascano/Noticias_Ec_Lascano) | App de noticias de Ecuador consumiendo la API REST de NewsData.io. | Flutter · REST |
-| 🔐 [**Servidor OAuth2 + JWT**](https://github.com/JhosuaLascano/Servidor-oauth2-app-flutter-jwt) | Autenticación con OAuth2 y tokens JWT para una app Flutter. | Dart · JWT |
-| 🍽️ [**Sistema Restaurante**](https://github.com/JhosuaLascano/Sistema_Restaurant_Software) | Almacenamiento y gestión de información de un restaurante. | HTML · JS |
+| [**El Dato**](https://github.com/JhosuaLascano/El-Dato) | App de gastos diarios, ahorro con meta y recordatorios. Disponible para Android e iPhone. | Flutter · SQLite |
+| [**Noticias EC**](https://github.com/JhosuaLascano/Noticias_Ec_Lascano) | App de noticias de Ecuador consumiendo la API REST de NewsData.io. | Flutter · REST |
+| [**Servidor OAuth2 + JWT**](https://github.com/JhosuaLascano/Servidor-oauth2-app-flutter-jwt) | Autenticación con OAuth2 y tokens JWT para una app Flutter. | Dart · JWT |
+| [**Sistema Restaurante**](https://github.com/JhosuaLascano/Sistema_Restaurant_Software) | Almacenamiento y gestión de información de un restaurante. | HTML · JS |
 ---
 
 ## Lo que hago
@@ -63,7 +66,6 @@ Estudiante de Ingeniería, me gusta crear aplicaciones móviles útiles, rápida
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JhosuaLascano&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://streak-stats.demolab.com/?user=JhosuaLascano&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhosuaLascano&layout=compact&theme=dark&hide_border=true&hide=html,python,css,cmake,swift,kotlin,c,dockerfile,shell,objective-c&langs_count=3" alt="Lenguajes más usados" />
